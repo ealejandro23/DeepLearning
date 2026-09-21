@@ -35,17 +35,17 @@ jupyter notebook EV1_DeepLearningOrtega_Gamboa.ipynb
 
 ## Estructura del cuaderno
 
-El cuaderno está organizado en tres bloques, cada uno con su expositor:
+El cuaderno está organizado en siete secciones:
 
-| # | Sección | Contenido | Bloque |
-|---|---|---|---|
-| 1 | Introducción | Problema, objetivo y dataset | 🎤 Persona 1 |
-| 2 | Carga y preprocesamiento | Librerías, descarga, control de calidad, normalización, validación y evidencia empírica de que escalar importa (2.1 – 2.6) | 🎤 Persona 1 |
-| 3 | Definición del modelo | Arquitectura de la red y las tres funciones clave: activación, pérdida y salida (3.1 – 3.2) | 🎤 Persona 1 |
-| 4 | Entrenamiento y ajuste de hiperparámetros | Funciones auxiliares, modelo base y los cinco experimentos controlados (4.1 – 4.7) | 🎤 Persona 2 |
-| 5 | Evaluación del modelo | Accuracy, precision, recall, F1 y matriz de confusión | 🎤 Persona 3 |
-| 6 | Análisis y mejora | Regularización, reentrenamiento y tabla consolidada (6.1 – 6.3) | 🎤 Persona 3 |
-| 7 | Conclusiones | Resultados y mejoras propuestas | 🎤 Persona 3 |
+| # | Sección | Contenido |
+|---|---|---|
+| 1 | Introducción | Problema, objetivo y dataset |
+| 2 | Carga y preprocesamiento | Librerías, descarga, control de calidad, normalización, validación y evidencia empírica de que escalar importa (2.1 – 2.6) |
+| 3 | Definición del modelo | Arquitectura de la red y las tres funciones clave: activación, pérdida y salida (3.1 – 3.2) |
+| 4 | Entrenamiento y ajuste de hiperparámetros | Funciones auxiliares, modelo base y los cinco experimentos controlados (4.1 – 4.7) |
+| 5 | Evaluación del modelo | Accuracy, precision, recall, F1 y matriz de confusión |
+| 6 | Análisis y mejora | Regularización, reentrenamiento y tabla consolidada (6.1 – 6.3) |
+| 7 | Conclusiones | Resultados y mejoras propuestas |
 
 ### Experimentos controlados
 
