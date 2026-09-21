@@ -1,0 +1,14 @@
+# Dependencias de EV1_DeepLearningOrtega_Gamboa.ipynb
+#
+# En Google Colab todas ya vienen instaladas; este archivo sirve para
+# reproducir el cuaderno en un entorno local.
+#
+#   pip install -r requirements.txt
+
+tensorflow>=2.15
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
