@@ -1,7 +1,7 @@
-# Dependencias de EV1_DeepLearningOrtega_Gamboa.ipynb
+# Dependencias de los cuadernos del repositorio (EV1 y EV3).
 #
 # En Google Colab todas ya vienen instaladas; este archivo sirve para
-# reproducir el cuaderno en un entorno local.
+# reproducir los cuadernos en un entorno local.
 #
 #   pip install -r requirements.txt
 
